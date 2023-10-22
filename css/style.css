@@ -13,27 +13,22 @@
 .yellow  {
     color: yellow;
 }
-#days {
-    color: gold;
-}
-.day {
-    color: black;
-}
-.nomer1 {
-    color: aqua;
-}
-.nomer2 {
-    color: blue;
-}
-.nomer3 {
+.nonday {
     color: blueviolet;
 }
-.nomer4 {
-    color: chartreuse;
+.Tuesday {
+    color: crimson;
 }
-.nomer5 {
-    color: coral;
+.Wednesday {
+    color: mediumblue;
 }
-.nelyblyalgebry {
-    color: black;
+.Thursday {
+    color: darkolivegreen;
 }
+.Friday {
+    color: lightskyblue;
+}
+
+
+
+
